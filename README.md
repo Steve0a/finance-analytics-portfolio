@@ -16,6 +16,7 @@ Portfolio of finance, business analytics, dashboard, and AI research projects by
 | [Walmart Sales & Customer Analysis](walmart-sales-customer-analysis/) | Multi-source sales and customer trend analysis | Python, Pandas, Excel, Tableau/Power BI |
 | [CPT Myth Buster](cpt-myth-buster/) | Evidence-based, AI-assisted research workflow for CPT-related questions | Research synthesis, source evaluation, AI tools |
 | [AI Due-Diligence Workflows](ai-due-diligence-workflows/) | Structured claim assessment and decision-ready research summaries | AI tools, source evaluation, documentation |
+| [Amazon FC Fulfillment Journey](amazon-fc-fulfillment-journey/) · [Live site](https://fulfillmentcenterjourney.com) | Interactive map of Amazon Fulfillment Center roles and workflow (Extern Project 308) | HTML, CSS, JavaScript, Three.js, Cloudflare Workers |
 
 ## Repository structure
 Each project includes a README, folders for data or research materials, and placeholders for notebooks, source code, dashboards, and outputs. No confidential employer, client, student, or personally identifiable data is included.
