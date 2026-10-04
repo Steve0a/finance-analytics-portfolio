@@ -1,2 +1,0 @@
-# Research
-Add an evidence log with: question, source title, publisher, publication/update date, link, key passage, interpretation, limitations, and review date. Do not include private immigration records.
